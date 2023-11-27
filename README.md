@@ -2,7 +2,7 @@
 
 Diana stands as a sophisticated AI assistant, seamlessly integrating cutting-edge technologies to provide an intelligent and user-friendly experience.
 
-> 💪 The best part is it runs offline and uses open source models and data for enhanced privacy and accessibility.
+> 💪 The best part is it runs locally and uses open source models and data for enhanced privacy and accessibility.
 
 ## Technologies Utilized
 
